@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<test id="1">
+  <exo num="1">
+    <kolb-processing>reflective</kolb-processing>
+    <kolb-perceiving>abstract</kolb-perceiving>
+    <question num="1" type="direct">
+      <content>gggg</content>
+      <points>2</points>
+    </question>
+  </exo>
+  <exo num="2">
+    <kolb-processing>reflective</kolb-processing>
+    <kolb-perceiving>abstract</kolb-perceiving>
+    <question num="1" type="QCM">
+      <content>gggg or hhhh</content>
+      <points>2</points>
+      <choice>ll</choice>
+      <choice>55</choice>
+      <choice>pp</choice>
+    </question>
+  </exo>
+</test>

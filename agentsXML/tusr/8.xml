@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<test id="8">
+  <exo num="1">
+    <kolb-processing>reflective</kolb-processing>
+    <kolb-perceiving>abstract</kolb-perceiving>
+    <question num="1" type="direct">
+      <content>fffffff</content>
+      <points>2</points>
+    </question>
+  </exo>
+  <exo num="2">
+    <kolb-processing>reflective</kolb-processing>
+    <kolb-perceiving>abstract</kolb-perceiving>
+    <question num="1" type="direct">
+      <content>fffffff</content>
+      <points>3</points>
+    </question>
+  </exo>
+  <exo num="3">
+    <kolb-processing>reflective</kolb-processing>
+    <kolb-perceiving>abstract</kolb-perceiving>
+    <question num="1" type="direct">
+      <content>fffffff</content>
+      <points>3</points>
+    </question>
+  </exo>
+</test>
